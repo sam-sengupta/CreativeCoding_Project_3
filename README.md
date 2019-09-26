@@ -1,4 +1,4 @@
-# Project_3
+# CreativeCodingProject_3
 Sketch 3
 
 Use R, G, B keys and mouse clicks to navigate. 
