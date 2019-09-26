@@ -1,3 +1,4 @@
+// use R, G, B keys and mouse clicks to navigate
 function setup () {
   createCanvas(700, 700);
   background (0);
